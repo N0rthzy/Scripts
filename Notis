@@ -1,3 +1,4 @@
+print("Encrypted By Nemesis Exploits!")
 game:GetService("StarterGui"):SetCore("SendNotification", {
 	Title = "Nemesis V3";
 	Text = "Encrypted By Nemesis Exploits!";
