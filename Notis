@@ -1,4 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
 	Title = "Nemesis V3";
 	Text = "Encrypted By Nemesis Exploits!";
+                Icon = "rbxassetid://2602448833";
 })
