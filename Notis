@@ -1,6 +1,13 @@
-print("Encrypted By Nemesis Exploits!")
+print("Powered By UnNamedExploits.tk!")
 game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "Nemesis V3";
-	Text = "Encrypted By Nemesis Exploits!";
-                Icon = "rbxassetid://2602448833";
+	Title = "UnNamed v1";
+	Text = "Made By Fleqq!";
+})
+game:GetService("StarterGui"):SetCore("SendNotification", {
+	Title = "Powered By Krnl.dll";
+	Text = "Krn.dll Is Made By The Krnl Owners!";
+})
+game:GetService("StarterGui"):SetCore("SendNotification", {
+	Title = "UnNamed v1";
+        Text = "We Will Be Using Our Own API Soon!";
 })
